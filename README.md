@@ -15,4 +15,4 @@ The Heart Disease prediction will have the following key takeaways:
 2. We also did a complete feature engineering part in this article which summons all the valid steps needed for further steps i.e.
 model building.
 
-3. From the above model accuracy, Logistic Regression is giving us the accuracy which is 89%.
+3. From the above model accuracy, Logistic Regression is giving us the accuracy which is 84%.
